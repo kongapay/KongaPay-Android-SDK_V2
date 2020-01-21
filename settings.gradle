@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='KongaPay-Android-SDK_V2'

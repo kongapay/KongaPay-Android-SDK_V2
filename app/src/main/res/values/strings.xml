@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KongaPay-Android-SDK_V2</string>
+    <string name="pay_kpg">Pay Merchant</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="merchantid">Merchant Id</string>
+    <string name="public_key">Public Key</string>
+    <string name="description">Description</string>
+    <string name="email">Email</string>
+    <string name="amount">Amount</string>
+    <string name="desc">Testing android sdk on staging</string>
+</resources>
